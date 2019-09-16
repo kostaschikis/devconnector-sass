@@ -37,7 +37,7 @@ $spaceamounts: (1, 2, 3, 4, 5);
 
     // Vertical Padding
     .p-#{$space} {
-        padding: #{$space}rem 0;
+        padding: #{$space}rem;
     }
 
     // Vertical Padding
