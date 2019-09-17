@@ -165,6 +165,25 @@
 }
 
 /*
+     =============
+    |    Tables   |
+     =============
+*/
+.table {
+    th, 
+    td {
+        padding: 1rem;
+        text-align: left;
+    }
+
+    th {
+        background: $light-color;
+    }
+} 
+
+
+
+/*
      ===============
     |    Overlay    |
      ===============
