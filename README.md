@@ -1,5 +1,5 @@
-# DevConnector 💻
-A website theme created in the purpose of learning <img src="https://img.icons8.com/windows/32/000000/sass.png">
+# DevConnector <img src="https://img.icons8.com/windows/32/000000/sass.png">
+A website theme created in the purpose of learning Sass.
 
 # What I Learned
 - Sass variables
